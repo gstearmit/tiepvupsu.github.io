@@ -1,7 +1,7 @@
-# gem 'jekyll-sitemap'
+# gem 'jekyll-sitemap', '>= 1.0.0'
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '>= 3.4.2'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 # gems: [jekyll-paginate]
